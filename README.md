@@ -21,8 +21,9 @@ Bu proje, i2i Systems staj programı kapsamında geliştirildi. Ödevin amacı, 
 
 ## Kurulum ve Çalıştırma Adımları
 
-1. **Docker İmajının İndirilmesi:**  
+ 
    ```bash
+   Docker İmajının İndirilmesi  
    docker pull basvanbeek/voltdb-community:latest
    Docker Ağı Oluşturma:
    docker network create voltLocalCluster
